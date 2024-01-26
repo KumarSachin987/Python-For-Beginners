@@ -4,6 +4,7 @@ print(type(empty_lst))
 print(empty_lst)
 
 
+
 # creating list with different types of elements
 my_list = [1, 2, 3,'e','t','g','b','sachin','aman',]
 print('Elements of my_list are=',my_list)
