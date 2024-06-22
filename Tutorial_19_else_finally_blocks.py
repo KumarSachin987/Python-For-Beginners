@@ -35,6 +35,7 @@ finally:
     if 'file' in locals():
         file.close()
         print("File closed.")
+        
 
 # In this example:
 

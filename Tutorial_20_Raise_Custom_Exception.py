@@ -6,6 +6,7 @@
 
 # Step 1: Define the Custom Exception Class
 
+
 class InvalidAgeError(Exception):
     """Exception raised for invalid age input."""
     def __init__(self, age, message="Age must be between 0 and 120"):

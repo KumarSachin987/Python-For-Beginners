@@ -17,6 +17,7 @@
 # Examples:
 # Example 1: Handling Division by Zero Error
 
+
 try:
     result = 10 / 0  # Division by zero
 except ZeroDivisionError:
